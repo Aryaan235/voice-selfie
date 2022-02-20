@@ -1,0 +1,25 @@
+#start
+{
+    width: 40%;
+} 
+#webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#inp
+{
+    width: 300px;
+}
+#display
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
